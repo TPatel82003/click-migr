@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Tirth Patel",
     author_email="tirthpatel31082003@gmail.com",
-    url="https://github.com/yourusername/my_project",
+    url="https://github.com/TPatel82003/click-migr",
     packages=find_packages(),
     install_requires=[
         "clickhouse-connect",
